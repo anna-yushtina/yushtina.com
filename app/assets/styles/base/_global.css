@@ -1,0 +1,8 @@
+p {
+	font-family: 'Roboto', sans-serif;
+	color: green;
+}
+
+.foo::before {
+  font-awesome: camera;
+}
